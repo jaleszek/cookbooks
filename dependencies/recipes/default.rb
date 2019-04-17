@@ -6,3 +6,4 @@
 
 execute "yum -y install curl"
 execute "yum -y install htop"
+execute "curl -sSL https://get.rvm.io | bash -s stable --ruby"
