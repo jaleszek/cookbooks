@@ -4,5 +4,5 @@
 #
 # Copyright:: 2019, The Authors, All Rights Reserved.
 
-execute "yum install curl"
-execute "yum install htop"
+execute "yum -y install curl"
+execute "yum -y install htop"
