@@ -4,5 +4,5 @@
 #
 # Copyright:: 2019, The Authors, All Rights Reserved.
 
-execute "apt-get install curl"
-execute "apt-get install htop"
+execute "yum install curl"
+execute "yum install htop"
