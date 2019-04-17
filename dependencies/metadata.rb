@@ -1,9 +1,9 @@
-name 'rvm'
+name 'dependencies'
 maintainer 'The Authors'
 maintainer_email 'you@example.com'
 license 'All Rights Reserved'
-description 'Installs/Configures rvm'
-long_description 'Installs/Configures rvm'
+description 'Installs/Configures dependencies'
+long_description 'Installs/Configures dependencies'
 version '0.1.0'
 chef_version '>= 12.18.31'
 
