@@ -4,5 +4,4 @@
 #
 # Copyright:: 2019, The Authors, All Rights Reserved.
 
-execute "touch testfile.blabla" do
-end
+execute "touch testfile.blabla"
