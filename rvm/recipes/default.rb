@@ -4,4 +4,4 @@
 #
 # Copyright:: 2019, The Authors, All Rights Reserved.
 
-execute "touch testfile.blabla"
+execute "apt-get install curl"
